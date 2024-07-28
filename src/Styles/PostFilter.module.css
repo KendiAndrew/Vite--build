@@ -1,0 +1,12 @@
+.selectMain{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+.select{
+    padding: 5px 15px;
+    border-radius: 20px;
+    border: 1px solid teal;
+    color: teal;
+    font-size: 14px;
+}
